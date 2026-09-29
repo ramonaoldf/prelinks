@@ -7,7 +7,7 @@
   "dependencies": {},
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^8.0.1",
+    "mocha": "^12.0.2",
     "rollup": "^2.21.0",
     "rollup-plugin-terser": "^6.1.0"
   },
